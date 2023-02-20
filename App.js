@@ -1,10 +1,10 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import Header from "./components/Header";
-import About from "./components/About";
-import Home from "./screens/Home";
-import Skills from "./screens/Skills";
-import Projects from "./screens/Projects";
+import Header from "./src/components/Header";
+import About from "./src/components/About";
+import Home from "./src/screens/Home";
+import Skills from "./src/screens/Skills";
+import Projects from "./src/screens/Projects";
 
 function App() {
   return (
